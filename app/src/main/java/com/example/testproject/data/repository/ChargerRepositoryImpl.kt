@@ -2,6 +2,7 @@ package com.example.testproject.data.repository
 
 import com.example.testproject.data.model.ChargerData
 import com.example.testproject.data.sourse.fakeServerData
+import com.example.testproject.domain.repository.ChargerRepository
 import kotlinx.coroutines.delay
 import javax.inject.Inject
 

@@ -1,8 +1,8 @@
 package com.example.testproject.di
 
-import com.example.testproject.data.repository.ChargerRepository
+import com.example.testproject.domain.repository.ChargerRepository
 import com.example.testproject.data.repository.ChargerRepositoryImpl
-import com.example.testproject.domain.usecase.GetChargersUseCase
+import com.example.testproject.domain.useCase.GetChargersUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

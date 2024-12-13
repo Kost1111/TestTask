@@ -1,4 +1,4 @@
-package com.example.testproject.data.repository
+package com.example.testproject.domain.repository
 
 import com.example.testproject.data.model.ChargerData
 

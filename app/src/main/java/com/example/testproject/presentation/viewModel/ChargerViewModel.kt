@@ -2,7 +2,7 @@ package com.example.testproject.presentation.viewModel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.testproject.data.model.ChargerData
-import com.example.testproject.domain.usecase.GetChargersUseCase
+import com.example.testproject.domain.useCase.GetChargersUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
